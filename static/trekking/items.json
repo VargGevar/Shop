@@ -1,0 +1,32 @@
+[
+  {
+    "name": "jacket", "price": "40", "color": "black", "size": "m", "category": "men" 
+  },
+  {
+    "name": "t-shirt", "price": "5", "color": "black", "size": "m", "category": "men"
+  },
+  {
+    "name": "pants", "price": "30", "color": "black", "size": "m", "category": "men"
+  },
+  {
+    "name": "backpack", "price": "60", "color": "black", "volume": "10", "category": "men"
+  },
+  {
+    "name": "socks", "price": "2", "color": "black", "size": "m", "category": "men"
+  },
+  {
+    "name": "jacket", "price": "40", "color": "white", "size": "m", "category": "women" 
+  },
+  {
+    "name": "t-shirt", "price": "5", "color": "white", "size": "m", "category": "women"
+  },
+  {
+    "name": "pants", "price": "30", "color": "white", "size": "m", "category": "women"
+  },
+  {
+    "name": "shoes", "price": "80", "color": "white", "size": "m", "category": "women"
+  },
+  {
+    "name": "socks", "price": "2", "color": "white", "size": "m", "category": "women"
+  }
+]
